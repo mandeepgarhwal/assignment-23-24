@@ -46,6 +46,7 @@ function loginprocess(event){
             document.getElementById("exampleInputEmail1").value = ""
             document.getElementById("exampleInputPassword1").value = ""
             
+            
             }
     }
 }
